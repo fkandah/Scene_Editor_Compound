@@ -1,3 +1,3 @@
-# Scene_Editor_Compound
+# Scene Editor Compound
 
 This code will create a compound scene editor
